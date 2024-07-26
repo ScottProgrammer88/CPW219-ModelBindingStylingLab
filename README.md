@@ -1,3 +1,8 @@
 # CPW219-ModelBinding Styling Lab
-Starter code for lab activity. Your task is to change the UserProfile page and 3D printer list pages and style them. You can
-use custom CSS or a framework like Bootstrap
+
+This project is a lab activity for styling User Profile and 3D Printer list pages using Bootstrap. The goal is to make the pages responsive and visually appealing for both mobile and desktop layouts.
+
+## Features
+- Responsive User Profile page
+- Responsive 3D Printer list page
+- Uses Bootstrap for styling
